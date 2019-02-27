@@ -1,0 +1,2 @@
+# Chesster
+A Chess Bot
