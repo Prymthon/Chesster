@@ -1,2 +1,2 @@
 # Chesster
-A Chess Bot
+Chesster Is A Robot That Plays Chess.
